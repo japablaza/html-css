@@ -1,3 +1,15 @@
 body {
     background-color: darkgreen;
 }
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 11px;
+    font-style: italic;
+    color: aqua;
+}
+
+div {
+    background-color: blue;
+    width: 30%;
+}
