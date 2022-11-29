@@ -11,6 +11,9 @@
 
 - HTML Elements
   - form and fieldset
+  - div, header, footer, section, body, heading
+  - input
+    - color, date, datetime-local, email, number, range, search, URL
 
 ## CSS
 
