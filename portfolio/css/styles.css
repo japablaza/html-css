@@ -1,0 +1,12 @@
+.portfolio_pic {
+    border-radius: 50%;;
+}
+
+.header {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 32px;
+    background-color: #0a0a23;
+    color: #fff;
+    border-bottom: 5px solid #ff5c00;
+}
